@@ -5,6 +5,11 @@ Hi, I'm Farhan Intesar Mugdho! I'm a Computer Science and Engineering undergradu
 - 🤖 **AI projects**: building projects that is useful for the customers and the users.
 - 🛡️ **Security**: CTF challenges and SOC fundamentals, specially in Forensic tools including autopsy and volatility. Also I have knowledge on using Ghidra in reverse engineering, malware analysis and binary exploitation problems. Also solved some problems of web penetration in CTF problems.
 
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=farhanmugdho&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## GitHub Stats
 
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanmugdho&show_icons=true&theme=github_dark)
