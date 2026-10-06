@@ -11,7 +11,6 @@ Hi, I'm Farhan Intesar Mugdho! I'm a Computer Science and Engineering undergradu
 ![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanmugdho&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanmugdho&layout=compact&theme=github_dark)
 ![Streak](https://streak-stats.demolab.com/?user=farhanmugdho&theme=github-dark)
-![Trophies](https://github-profile-trophy.vercel.app/?username=farhanmugdho&theme=onedark&no-frame=true&row=1)
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
