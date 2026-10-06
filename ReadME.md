@@ -1,6 +1,6 @@
 
 ## About Me
-Hi, I'm Farhan Intesar Mugdho! 👋I'm a Computer Science and Engineering undergraduate at the **Military Institute of Science and Technology (MIST)**, Dhaka. I'm interested in **Software Engineering** and **SOC analysis**, and I learn by building projects.
+Hi, I'm Farhan Intesar Mugdho! I'm a Computer Science and Engineering undergraduate at the **Military Institute of Science and Technology (MIST)**, Dhaka. I'm interested in **Software Engineering** and **SOC analysis**, and I learn by building projects.
 
 ## What I'm Working On
 - 🤖 **AI projects**: building projects that is useful for the customers and the users
